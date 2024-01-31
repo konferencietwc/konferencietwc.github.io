@@ -1,4 +1,4 @@
 www.konferencie.twc.sk 
-stránka sa práve aktualizuje :) 
+stránka sa práve aktualizuje 
 Ďakujeme za trpezlivosť
 :) 
