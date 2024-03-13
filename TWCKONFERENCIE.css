@@ -1,5 +1,6 @@
  .u-section-1 {
   background-image: url("images/texture.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -63,10 +64,6 @@
 }
 
 @media (max-width: 1399px) {
-   .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-text-2 {
     width: 438px;
   }
@@ -163,6 +160,7 @@
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
 } .u-section-2 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/dfcgvhbjnkml.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -222,10 +220,6 @@
 }
 
 @media (max-width: 1399px) {
-   .u-section-2 {
-    background-position: 50% 50%;
-  }
-
   .u-section-2 .u-sheet-1 {
     min-height: 773px;
   }
@@ -370,6 +364,7 @@
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
 } .u-section-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/dfcgvhbjnkml.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -427,12 +422,6 @@
   font-weight: bold;
   font-size: 0.75rem;
   background-image: none;
-}
-
-@media (max-width: 1399px) {
-   .u-section-3 {
-    background-position: 50% 50%;
-  }
 }
 
 @media (max-width: 1199px) {
@@ -570,6 +559,7 @@
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
 } .u-section-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/dfcgvhbjnkml.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-sheet-1 {
@@ -627,12 +617,6 @@
   font-weight: bold;
   font-size: 0.75rem;
   background-image: none;
-}
-
-@media (max-width: 1399px) {
-   .u-section-4 {
-    background-position: 50% 50%;
-  }
 }
 
 @media (max-width: 991px) {
@@ -758,6 +742,7 @@
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
 } .u-section-5 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/dfcgvhbjnkml.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-5 .u-sheet-1 {
@@ -814,12 +799,6 @@
   font-weight: bold;
   font-size: 0.75rem;
   background-image: none;
-}
-
-@media (max-width: 1399px) {
-   .u-section-5 {
-    background-position: 50% 50%;
-  }
 }
 
 @media (max-width: 767px) {
@@ -944,6 +923,7 @@
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
 } .u-section-6 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/dfcgvhbjnkml.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-sheet-1 {
@@ -1001,12 +981,6 @@
   font-weight: bold;
   font-size: 0.75rem;
   background-image: none;
-}
-
-@media (max-width: 1399px) {
-   .u-section-6 {
-    background-position: 50% 50%;
-  }
 }
 
 @media (max-width: 575px) {
